@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Body of page</title>
+</head>
+<body bg color="cyan">
+<img src="FestiveDecorator.jpg" alt="photo" height="300" weidth="400">
+</body>
+</html>

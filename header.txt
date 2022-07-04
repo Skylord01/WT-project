@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Header</title>
+</head>
+<body>
+<h2 align="right" style="color.blue">About Us</h2>
+<h2 align="left" style="color.blue">Home</h2>
+<h2 align="center" style="color.blue">Contact</h2>
+</body>
+</html>
